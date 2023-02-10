@@ -5,6 +5,7 @@ antora:
   - id: unlisted-pages
     enabled: true
     require: ./lib/unlisted.js
+  - '@antora/pdf-extension'
 site:
   title: Документация Docsvision
   url: https://help.docsvision.com/

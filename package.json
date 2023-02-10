@@ -6,8 +6,9 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@antora/cli": "^3.1.0",
+    "@antora/pdf-extension": "^1.0.0-alpha.6",
     "@antora/site-generator": "^3.1.0",
-    "asciidoctor-kroki": "^0.14.0",
-	"antora-navigator-extension": "git+https://gitlab.com/opendevise/oss/antora-navigator-extension"
+    "antora-navigator-extension": "git+https://gitlab.com/opendevise/oss/antora-navigator-extension",
+    "asciidoctor-kroki": "^0.14.0"
   }
 }
